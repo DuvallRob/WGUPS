@@ -1,8 +1,3 @@
-# WGUPS
-Here’s the README file based on the extracted content from your PDF:
-
----
-
 # WGUPS Routing Program Implementation  
 
 **Author:** Duvall Roberts  
